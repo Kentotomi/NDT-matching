@@ -5,7 +5,7 @@
 ## デモ動画
 https://youtu.be/PsEV-1tdwX4
 ## 結果
-<img src="![robosys1](https://user-images.githubusercontent.com/68839397/105617054-636cbd80-5e1f-11eb-8395-409f5e0d55b5.png)
+<img src="https://user-images.githubusercontent.com/68839397/105617054-636cbd80-5e1f-11eb-8395-409f5e0d55b5.png)
 " width=50%>
 
 - LEDはアノードをGPIO25，カソードをGNDに接続する．
