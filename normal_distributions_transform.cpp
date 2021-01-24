@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: BSD 3-Clause License
+/*
+     Copyright (c) 2021, Kentotomi. All rights reserved.
+*/
+
 #include <iostream>
 #include <thread>
 
