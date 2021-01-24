@@ -40,4 +40,4 @@ $make
 $./normal_distributions_transform
 ```
 # License
-"normal_distributions_transform.cpp" is under [The 3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clausee)
+"normal_distributions_transform.cpp" is under [The 3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
